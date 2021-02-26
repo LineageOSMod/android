@@ -39,4 +39,6 @@
   <project path="lineage-sdk" name="LineageOSMod/android_lineage-sdk" />
   <project path="packages/apps/Trebuchet" name="LineageOSMod/android_packages_apps_Trebuchet" />
   <project path="vendor/lineage" name="LineageOSMod/android_vendor_lineage" />
+  <project path="vendor/gms" name="LineageOSMod/android_vendor_gms" clone-depth="1" />
+  <project path="vendor/thirdparty" name="LineageOSMod/android_vendor_thirdparty" clone-depth="1" />
 </manifest>
